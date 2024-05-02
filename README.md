@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Maaviz/Maaviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+About Me:<br><br>As a seasoned MERN stack developer, I specialize in building robust, scalable, and high-performance web applications using the cutting-edge MERN (MongoDB, Express.js, React.js, Node.js) technology stack. With [X] years of experience in the industry, I have honed my skills in developing full-stack solutions that seamlessly integrate front-end and back-end components.<br><br>Front-end Development:<br>- Proficient in React.js, leveraging its component-based architecture and virtual DOM for efficient rendering<br>- Experienced in state management using Redux or Context API<br>- Skilled in creating responsive and intuitive user interfaces<br>- Knowledgeable in modern front-end build tools and workflows (Webpack, Babel, etc.)<br><br>Back-end Development:<br>- Expertise in Node.js, utilizing its event-driven, non-blocking I/O model for highly efficient server-side applications<br>- Strong command over Express.js for building robust APIs and handling HTTP requests<br>- Adept in designing and implementing RESTful APIs<br>- Proficient in server-side rendering (SSR) techniques for improved performance and SEO<br><br>Database Management:<br>- Skilled in MongoDB, a flexible and scalable NoSQL database<br>- Experienced in designing and optimizing MongoDB schemas<br>- Knowledgeable in querying techniques, indexing, and data aggregation<br><br>Additional Skills:<br>- Familiarity with version control systems (Git)<br>- Experience in implementing authentication and authorization mechanisms (JWT, OAuth, etc.)<br>- Ability to write clean, maintainable, and testable code<br>- Proficient in agile development methodologies and project management techniques<br><br>Throughout my career, I have successfully delivered numerous projects across diverse domains, from e-commerce platforms to real-time applications and beyond. I pride myself on my ability to collaborate effectively with cross-functional teams, adhere to industry best practices, and deliver high-quality solutions that meet client requirements.<br><br>With a passion for continuous learning and staying updated with the latest technologies and trends, I am committed to delivering cutting-edge solutions that drive business growth and success.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1217364933269000244) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gorekar.maaviz.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maaviz__fg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gorekar-maaviz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/GMaaviz) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maaviz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maaviz&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaviz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maaviz&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Maaviz&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Maaviz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
